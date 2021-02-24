@@ -1,0 +1,9 @@
+C:\Users\Usuario\OneDrive\Documentos\EJERCICIOS DE PROGRAMACION VISUAL\ejercico POOHERENCIA\Herencia\Clases\bin\Debug\netstandard2.0\Clases.deps.json
+C:\Users\Usuario\OneDrive\Documentos\EJERCICIOS DE PROGRAMACION VISUAL\ejercico POOHERENCIA\Herencia\Clases\bin\Debug\netstandard2.0\Clases.dll
+C:\Users\Usuario\OneDrive\Documentos\EJERCICIOS DE PROGRAMACION VISUAL\ejercico POOHERENCIA\Herencia\Clases\bin\Debug\netstandard2.0\Clases.pdb
+C:\Users\Usuario\OneDrive\Documentos\EJERCICIOS DE PROGRAMACION VISUAL\ejercico POOHERENCIA\Herencia\Clases\obj\Debug\netstandard2.0\Clases.csprojAssemblyReference.cache
+C:\Users\Usuario\OneDrive\Documentos\EJERCICIOS DE PROGRAMACION VISUAL\ejercico POOHERENCIA\Herencia\Clases\obj\Debug\netstandard2.0\Clases.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\EJERCICIOS DE PROGRAMACION VISUAL\ejercico POOHERENCIA\Herencia\Clases\obj\Debug\netstandard2.0\Clases.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Documentos\EJERCICIOS DE PROGRAMACION VISUAL\ejercico POOHERENCIA\Herencia\Clases\obj\Debug\netstandard2.0\Clases.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\EJERCICIOS DE PROGRAMACION VISUAL\ejercico POOHERENCIA\Herencia\Clases\obj\Debug\netstandard2.0\Clases.dll
+C:\Users\Usuario\OneDrive\Documentos\EJERCICIOS DE PROGRAMACION VISUAL\ejercico POOHERENCIA\Herencia\Clases\obj\Debug\netstandard2.0\Clases.pdb
